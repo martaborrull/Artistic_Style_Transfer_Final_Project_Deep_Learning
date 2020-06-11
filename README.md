@@ -9,7 +9,10 @@ Here it is out final project of deep learning.
 
 The idea of this project is to take some pictures and by applying the style of a picture, transform them.
 
-There are two files of code, one for the AlexNet model and one for the VGG 19 model
+There are two documents of code, one for the AlexNet model and one for the VGG 19 model.
+Then there are two more files:
+  - Images, which it has the content and the sytle images ( in two separate files).
+  - Results that have all the generated images.
 
 In order to execute the code:
   - It is needed to change just the name of the pictures, to decide which transformation is wanted to be done.
